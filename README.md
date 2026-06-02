@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ilayabharathi 👋
 
-<!--
-**ilayabharathi-cs/ilayabharathi-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+🌐 Learning Web Security & Bug Bounty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Linux & Networking
+
+💻 Building Projects and CTF Writeups
+
+## Skills
+- Linux
+- Networking
+- Python
+- Git & GitHub
+- Web Security
+
+## Current Goal
+Become a Security Researcher
