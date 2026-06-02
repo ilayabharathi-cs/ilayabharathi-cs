@@ -14,6 +14,13 @@
 - Python
 - Git & GitHub
 - Web Security
+  
+## Tools
+- Nmap
+- Wireshark
+- Burp Suite
+- Linux
+- Git
 
 ## Current Goal
 Become a Security Researcher
